@@ -1,2 +1,2 @@
 # A-bot
-Using IoT to build a little machine harvesting agricultural products.
+Using IoT to build a little machine to harvest agricultural products.
